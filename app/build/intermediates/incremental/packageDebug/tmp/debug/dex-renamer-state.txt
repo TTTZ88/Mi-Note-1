@@ -1,0 +1,4 @@
+#Fri May 17 08:26:31 CST 2024
+base.0=D\:\\Temp\\xiaomi-notes--note1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
